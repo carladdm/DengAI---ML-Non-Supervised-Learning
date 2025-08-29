@@ -26,7 +26,7 @@ Raw Data provided by
 
 - **Google colab (Jupyter Notebook)**
 - **Python**
-- **Libraries**: Pandas, Numpy, io, Math, Matplotlib, Seaborn,  Scikit-learn y SciPy
+- **Libraries**: Pandas, Numpy, io, Math, Matplotlib, Seaborn,  Scikit-learn & SciPy
 
 ## Experimentation Phases
 This project explores various unsupervised machine learning methods to identify patterns and group similar objects within a dataset. The experimental process is structured into three key sections:
